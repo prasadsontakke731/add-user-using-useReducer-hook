@@ -1,0 +1,32 @@
+.form input{
+  width: 100%;
+  padding: 20px;
+  font-size: 30px;
+}
+th{
+  background-color: red;
+  color: white;
+  text-align: center;
+  font-weight: bold;
+  padding: 20px 30px;
+  border: 5px solid black;
+}
+table td,tr{
+  font-size: 20px;
+  background-color: lightgreen;
+  text-align: center;
+  font-weight: bold;
+  padding: 20px 30px;
+  border: 5px solid black;
+}
+table{
+  width: 500px;
+}
+.btnperson{
+  width: 100%;
+  background-color: rgb(31, 31, 118);
+  color: white;
+  border-radius: 20px;
+  letter-spacing: 10px;
+  font-size: 30px;
+}

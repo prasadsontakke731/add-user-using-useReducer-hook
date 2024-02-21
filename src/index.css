@@ -1,0 +1,27 @@
+.App{
+  text-align: center;
+  border: 1px solid black;
+}
+button{
+  margin: 20px;
+  padding: 20px;
+  font-size: 20px;
+  font-weight: bold;
+  cursor: pointer;
+
+}
+button.btnadd{
+  background-color: #4CAF50; /* Green */
+  color: white;
+}
+button.btnminus{
+  background-color: #f44336; /* Red */
+  color: white;
+}
+button.btnreset{
+  background-color: rgb(25, 25, 85); /* Red */
+  color: white;
+}
+.btnhide{
+  width: 100%;
+}
